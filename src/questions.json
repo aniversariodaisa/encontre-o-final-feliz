@@ -1,0 +1,71 @@
+[
+    {
+        "id": 1,
+        "description": "Essa é a pergunta 1!",
+        "options": [
+            {
+                "description": "Pergunta 2",
+                "last": false,
+                "next": 2
+            },
+            {
+                "description": "Pergunta 3",
+                "last": false,
+                "next": 3
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "description": "Essa é a pergunta 2!",
+        "options": [
+            {
+                "description": "Final 01",
+                "last": true,
+                "message": 1
+            },
+            {
+                "description": "Pergunta 3",
+                "last": false,
+                "next": 3
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "description": "Essa é a pergunta 3!",
+        "options": [
+            {
+                "description": "Final 02",
+                "last": true,
+                "message": 2
+            },
+            {
+                "description": "Pergunta 4",
+                "last": false,
+                "next": 4
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "description": "Essa é a pergunta 4!",
+        "options": [
+            {
+                "description": "Final 02",
+                "last": true,
+                "message": 2
+            },
+            {
+                "description": "Final 03",
+                "last": true,
+                "message": 3
+            },
+            {
+                "description": "Teste",
+                "last": true,
+                "message": 3
+            }
+        ]
+    }
+]
