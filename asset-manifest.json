@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/encontre-o-final-feliz/static/css/main.9507c24e.chunk.css",
-    "main.js": "/encontre-o-final-feliz/static/js/main.74201063.chunk.js",
-    "main.js.map": "/encontre-o-final-feliz/static/js/main.74201063.chunk.js.map",
+    "main.js": "/encontre-o-final-feliz/static/js/main.4bcaca8a.chunk.js",
+    "main.js.map": "/encontre-o-final-feliz/static/js/main.4bcaca8a.chunk.js.map",
     "runtime-main.js": "/encontre-o-final-feliz/static/js/runtime-main.8e003d36.js",
     "runtime-main.js.map": "/encontre-o-final-feliz/static/js/runtime-main.8e003d36.js.map",
     "static/css/2.8a090117.chunk.css": "/encontre-o-final-feliz/static/css/2.8a090117.chunk.css",
-    "static/js/2.5c2b8088.chunk.js": "/encontre-o-final-feliz/static/js/2.5c2b8088.chunk.js",
-    "static/js/2.5c2b8088.chunk.js.map": "/encontre-o-final-feliz/static/js/2.5c2b8088.chunk.js.map",
+    "static/js/2.57d54cf2.chunk.js": "/encontre-o-final-feliz/static/js/2.57d54cf2.chunk.js",
+    "static/js/2.57d54cf2.chunk.js.map": "/encontre-o-final-feliz/static/js/2.57d54cf2.chunk.js.map",
     "static/js/3.828106b0.chunk.js": "/encontre-o-final-feliz/static/js/3.828106b0.chunk.js",
     "static/js/3.828106b0.chunk.js.map": "/encontre-o-final-feliz/static/js/3.828106b0.chunk.js.map",
     "index.html": "/encontre-o-final-feliz/index.html",
     "static/css/2.8a090117.chunk.css.map": "/encontre-o-final-feliz/static/css/2.8a090117.chunk.css.map",
     "static/css/main.9507c24e.chunk.css.map": "/encontre-o-final-feliz/static/css/main.9507c24e.chunk.css.map",
-    "static/js/2.5c2b8088.chunk.js.LICENSE.txt": "/encontre-o-final-feliz/static/js/2.5c2b8088.chunk.js.LICENSE.txt",
+    "static/js/2.57d54cf2.chunk.js.LICENSE.txt": "/encontre-o-final-feliz/static/js/2.57d54cf2.chunk.js.LICENSE.txt",
     "static/media/logo-isa.6fa3e513.png": "/encontre-o-final-feliz/static/media/logo-isa.6fa3e513.png",
     "static/media/logo.8670c676.png": "/encontre-o-final-feliz/static/media/logo.8670c676.png",
     "static/media/index.css": "/encontre-o-final-feliz/static/media/roboto-vietnamese-400-normal.c0bec65d.woff2"
@@ -21,8 +21,8 @@
   "entrypoints": [
     "static/js/runtime-main.8e003d36.js",
     "static/css/2.8a090117.chunk.css",
-    "static/js/2.5c2b8088.chunk.js",
+    "static/js/2.57d54cf2.chunk.js",
     "static/css/main.9507c24e.chunk.css",
-    "static/js/main.74201063.chunk.js"
+    "static/js/main.4bcaca8a.chunk.js"
   ]
 }
