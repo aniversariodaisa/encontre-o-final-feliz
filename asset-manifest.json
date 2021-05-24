@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/encontre-o-final-feliz/static/css/main.9507c24e.chunk.css",
-    "main.js": "/encontre-o-final-feliz/static/js/main.4bcaca8a.chunk.js",
-    "main.js.map": "/encontre-o-final-feliz/static/js/main.4bcaca8a.chunk.js.map",
+    "main.js": "/encontre-o-final-feliz/static/js/main.8815ea7d.chunk.js",
+    "main.js.map": "/encontre-o-final-feliz/static/js/main.8815ea7d.chunk.js.map",
     "runtime-main.js": "/encontre-o-final-feliz/static/js/runtime-main.8e003d36.js",
     "runtime-main.js.map": "/encontre-o-final-feliz/static/js/runtime-main.8e003d36.js.map",
     "static/css/2.8a090117.chunk.css": "/encontre-o-final-feliz/static/css/2.8a090117.chunk.css",
@@ -23,6 +23,6 @@
     "static/css/2.8a090117.chunk.css",
     "static/js/2.57d54cf2.chunk.js",
     "static/css/main.9507c24e.chunk.css",
-    "static/js/main.4bcaca8a.chunk.js"
+    "static/js/main.8815ea7d.chunk.js"
   ]
 }
